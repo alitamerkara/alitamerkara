@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ali Tamer Kara</h1>
 <h3 align="center">A passionate frontend and mobile app developer from Turkey</h3>
 
