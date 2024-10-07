@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alitamerkara" alt="alitamerkara" /></a> </p>
 
-- 🔭 I’m currently working on **InstagramClone**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Typescript, React and React Native**
+- 🔭 I’m currently working on **CFP Dataset**
 
 - 📫 How to reach me **alitamerkara1907@gmail.com**
 
